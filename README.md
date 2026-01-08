@@ -20,7 +20,7 @@ Passionnée par l'informatique, je développe mes compétences en **programmatio
 
 ## 🚀 Projets Phares
 
-### [Mini Système de Gestion des Structures de Données](https://github.com/Meriem-El-Fasely/Mini_Systeme_de_Gestion_des_Structures_de_Donnees)
+### <a href="https://github.com/Meriem-El-Fasely/Mini_Systeme_de_Gestion_des_Structures_de_Donnees" target="_blank">Mini Système de Gestion des Structures de Données</a>
 *Implémentation et visualisation graphique de structures de données et d’algorithmes en C/GTK.*
 - **Fonctionnalités** : Tri, Listes Chaînées, Piles, Files, Arbres, Graphes.
 - **Technologies** : C, GTK, Cairo.
@@ -55,9 +55,9 @@ Passionnée par l'informatique, je développe mes compétences en **programmatio
 
 ## 📫 Me Contacter
 
-<a href="mailto:elfaselymeriem02@gmail.com">
+<a href="mailto:elfaselymeriem02@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/meriem-el-fasely/">
+<a href="https://www.linkedin.com/in/meriem-el-fasely/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
