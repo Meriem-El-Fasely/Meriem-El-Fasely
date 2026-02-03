@@ -80,7 +80,7 @@ Passionnée par l'informatique, je développe mes compétences en **programmatio
 
 ## 📫 Me Contacter
 
-<a href="mailto:elfaselymeriem01@gmail.com" target="_blank">
+<a href="mailto:elfaselymeriem02@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/meriem-el-fasely/" target="_blank">
