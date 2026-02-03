@@ -36,8 +36,9 @@ Passionnée par l'informatique, je développe mes compétences en **programmatio
 - **Fonctionnalités** : Tri, Listes Chaînées, Piles, Files, Arbres Binaires, Graphes.
 - **Technologies** : C, GTK, Cairo.
 
-### 🤖 Mini Framework Machine Learning en Java
+### 🤖 [Java-ML-Framework](https://github.com/Meriem-El-Fasely/Java-ML-Framework)
 *Framework inspiré de Scikit-Learn implémentant régression linéaire, KNN et pipeline d'apprentissage complet.*
+- **Fonctionnalités** : Régression Linéaire, KNN (Classification/Régression), StandardScaler, MinMaxScaler, Train/Test Split.
 - **Technologies** : Java, POO, Machine Learning.
 
 ---
